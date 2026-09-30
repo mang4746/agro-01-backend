@@ -1,0 +1,1 @@
+export { TareasRepository } from './tareas.repository';

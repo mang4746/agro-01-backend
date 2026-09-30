@@ -1,0 +1,1 @@
+export { Tarea, TareaEstado, TareaPrioridad } from './tarea.entity';

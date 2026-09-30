@@ -1,0 +1,1 @@
+export * from './agro-01.repository';
