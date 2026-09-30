@@ -21,11 +21,14 @@
  - Jest
  - Pino
 
- ## Repositorios involucrados
+## Repositorios involucrados
 
- - [ ] Repositorio de la app móvil
- - [ ] Repositorio del backend principal
- - [ ] Repositorio del servicio de scoring
+| Repositorio | Enlace |
+|---|---|
+| App móvil | `URL_DEL_REPOSITORIO` |
+| Backend principal | `https://gitlab.com/mang4746/agro-01-backend` |
+| Servicio de scoring | `URL_DEL_REPOSITORIO` |
+| Base de datos Oracle | `URL_DEL_REPOSITORIO` |
 
  ## Configuración rápida
 
